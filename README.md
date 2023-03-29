@@ -1,5 +1,4 @@
- # Common Algorithms in JavaScript 
-
+# Common & Must Algorithms in JavaScript
 
 ### What's an algorithm?
 
